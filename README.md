@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -40,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 The biggest learning I gained in this project is the suggestion to treat it as a customer's project. The files provided made it a real process and realistic. So I was forced into making plans on how to proceed. Right up to this time any projects I attempted I just fired up code editor and worked through it. 
 
-Second lesson I learned is about WCAG. I have learned about accessibility but never came across this resource for where to look up standards. Thenk you Frontend Mentor.
+Second lesson I learned is about WCAG. I have learned about accessibility but never came across this resource for where to look up standards. Thank you Frontend Mentor.
 
 
 ## Author
