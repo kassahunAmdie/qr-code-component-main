@@ -64,6 +64,16 @@ h1 {
     color: var(--dark-blue);
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
